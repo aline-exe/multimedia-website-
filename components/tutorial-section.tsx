@@ -11,7 +11,7 @@ export function TutorialSection() {
 
         <div className="relative rounded-2xl overflow-hidden border-2 border-black bg-black aspect-video max-w-5xl mx-auto">
           <video controls className="w-full h-full" preload="metadata">
-            <source src="/images/tutorial.mp4" type="video/mp4" />
+            <source src="https://alzukdwjdf7tqrmv.public.blob.vercel-storage.com/tutorial.mp4" type="video/mp4" />
             Seu navegador não suporta o elemento de vídeo.
           </video>
         </div>
